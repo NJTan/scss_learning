@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKE,oBAAU;EACR,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,WAAW,EAAE,MAAM;EAEnB,2BAAS;IACP,KAAK,EAVD,MAAM;IAWV,MAAM,EAXF,MAAM;IAYV,MAAM,EAXA,KAAK;IAYX,aAAa,EAAE,GAAG;EAGpB,6BAAW;IACT,KAAK,EAfC,IAAI;AAmBd,qBAAW;EAEP,UAAG,EAAE,KAAK",
+"sources": ["../../../../../%E6%B1%95%E5%A4%A7%E8%AF%BE%E7%A8%8B%E8%A1%A8/%E4%BB%BB%E5%8A%A1/sassDemo.js/pages/index/index.scss"],
+"names": [],
+"file": "index.wxss"
+}

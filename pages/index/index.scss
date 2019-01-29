@@ -1,0 +1,29 @@
+@charset "UTF-8";
+$long-rpx:128rpx;
+$margin-rpx:20rpx;
+$text-color:#aaa;
+.container {
+  .userinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &-avatar {
+      width: $long-rpx;
+      height: $long-rpx;
+      margin: $margin-rpx;
+      border-radius: 50%;
+    }
+
+    &-nickname {
+      color: $text-color;
+    }
+  }
+
+  .usermotto {
+    margin: {
+      top: 200px;
+    }
+  }
+}
+
